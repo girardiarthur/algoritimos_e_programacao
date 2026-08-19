@@ -30,6 +30,8 @@ package aula2;
              System.out.println("TERCEIRO: " + livro3);
              System.out.println("QUARTO: " + livro4);
              System.out.println("QUINTO: " + livro5);
+
+             entrada.close();
   
       }
    }
