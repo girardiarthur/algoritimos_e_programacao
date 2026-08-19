@@ -23,7 +23,7 @@ package aula2;
 
 
              
-             System.out.println("\nSUA LISTA DE LIVROS:"); 
+             System.out.println("\nSUA LISTA DE LIVROS FAVORITOS :"); 
             
              System.out.println("\nPRIMEIRO: " + livro1);
              System.out.println("SEGUNDO: " + livro2);
