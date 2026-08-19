@@ -6,7 +6,7 @@ package aula2;
 
 
          Scanner entrada = new Scanner(System.in);
-         System.out.println("\nqDigite qual é seu primeiro livro favorito:");
+         System.out.println("\nDigite qual é seu primeiro livro favorito:");
          String livro1 = entrada.nextLine();
 
           System.out.println("Digite qual é seu segundo livro favorito:");
@@ -15,7 +15,7 @@ package aula2;
            System.out.println("Digite qual é seu terceiro livro favorito:");
            String livro3 = entrada.nextLine();
 
-            System.out.println("Digite qual é quarto seu livro favorito:");
+            System.out.println("Digite qual é seu quarto livro favorito:");
             String livro4 = entrada.nextLine();
 
              System.out.println("Digite qual é seu quinto livro favorito:");
@@ -30,8 +30,6 @@ package aula2;
              System.out.println("TERCEIRO: " + livro3);
              System.out.println("QUARTO: " + livro4);
              System.out.println("QUINTO: " + livro5);
-
-
-         
+  
       }
    }
