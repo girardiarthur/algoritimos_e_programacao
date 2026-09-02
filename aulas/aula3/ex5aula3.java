@@ -14,6 +14,6 @@ public class ex5aula3 {
     double nota3 = entrada.nextDouble();
     double media = (nota1 + nota2 + nota3) / 2;
     System.out.printf("Sua média é de : %.2f",media);
-
+    entrada.close();
     }
 }

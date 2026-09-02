@@ -15,6 +15,7 @@ public class ex11aula3 {
         int idade = anoatual - anonascimento;
         int idade2030 = 2030 - anonascimento;
         System.out.println("Você tem: " + idade + " anos de idade \nEm 2030 você terá: " + idade2030 + " anos de idade" );
+        entrada.close();
     }
 }
 

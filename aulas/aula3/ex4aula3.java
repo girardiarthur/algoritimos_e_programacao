@@ -16,6 +16,7 @@ public class ex4aula3 {
         int numero4 = entrada.nextInt();
         int resultado = numero1 + numero2 + numero3 + numero4;
         System.out.printf("a soma dos números é: %d", resultado);
+        entrada.close();
         
 
 
