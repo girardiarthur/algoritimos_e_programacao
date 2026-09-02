@@ -1,5 +1,11 @@
-package aula3;
+//Faça um algoritmo que calcule e imprima o valor de cada
+//expressão a seguir:
+//– (20 - 15)/2
+//– 2 ˆ (5/20) + 30 / (15 ˆ 2)
+//– 35 / (6 + 2)
+//– 23 módulo 4
 
+package aula3;
 public class ex6aula3 {
     public static void main (String[] args){
         double conta1 = (20 - 15) /2.0 ;

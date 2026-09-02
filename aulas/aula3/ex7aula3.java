@@ -1,5 +1,11 @@
-package aula3;
+//Faça um algoritmo para imprimir em cada linha o resultado
+//lógico das seguintes expressões:
+// ((120 - 30) = (3 ˆ 30))
+// (não ((20 módulo 4)= 1) ou (9 != 9))
+// ((5 módulo 2 ) > 3)
+// (a = A)
 
+package aula3;
 public class ex7aula3 {
     public static void main (String[]args){
         boolean operacao1 = ((120 - 30) == Math.pow(3,30));

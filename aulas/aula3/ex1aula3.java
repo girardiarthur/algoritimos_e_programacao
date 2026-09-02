@@ -1,3 +1,8 @@
+//Faça um algoritmo para imprimir em cada linha
+//o seu nome completo
+//o seu Registro Acadêmico RA
+//o seu curso
+
 package aula3;
 public class ex1aula3 {
     public static void main(String [] args){

@@ -1,3 +1,6 @@
+//Faça um algoritmo que leia três notas de um aluno
+//– calcule e mostre a média aritmética do aluno
+
 package aula3;
 import java.util.Scanner;
 public class ex5aula3 {

@@ -1,5 +1,6 @@
-package aula3;
+//Imprima a tabuada do 5 usando printf
 
+package aula3;
 public class ex3aula3 {
     public static void main(String[] args) {
          int numero = 5;
