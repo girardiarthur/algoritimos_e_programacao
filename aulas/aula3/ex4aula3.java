@@ -1,6 +1,7 @@
 //Faça um algoritmo que leia quatro números inteiros
 //– calcule e mostre a soma desses números
 
+//feito por: Arthur Girardi Noronha Tomei
 package aula3;
 import java.util.Scanner;
 public class ex4aula3 {

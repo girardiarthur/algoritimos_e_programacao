@@ -1,5 +1,6 @@
 //Construir um algoritmo para ler dois números inteiros e imprimir o seu produto
 
+//feito por: Arthur Girardi Noronha Tomei
 package aula3;
 import java.util.Scanner;
 public class ex31aula3{

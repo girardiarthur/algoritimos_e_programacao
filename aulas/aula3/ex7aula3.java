@@ -5,6 +5,7 @@
 // ((5 módulo 2 ) > 3)
 // (a = A)
 
+//feito por: Arthur Girardi Noronha Tomei
 package aula3;
 public class ex7aula3 {
     public static void main (String[]args){

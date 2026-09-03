@@ -1,6 +1,7 @@
 // Faça um algoritmo para apresentar:
 // o cálculo da média das seguintes notas 8.0, 7.5, 4.5 e 9.0
 
+//feito por: Arthur Girardi Noronha Tomei
 package aula3;
 public class ex8aula3 {
     public static void main (String[]args){

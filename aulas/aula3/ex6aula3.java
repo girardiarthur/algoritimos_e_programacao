@@ -5,6 +5,7 @@
 //– 35 / (6 + 2)
 //– 23 módulo 4
 
+//feito por: Arthur Girardi Noronha Tomei
 package aula3;
 public class ex6aula3 {
     public static void main (String[] args){

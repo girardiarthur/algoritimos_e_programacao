@@ -4,6 +4,7 @@
 //A raiz quadrada do número digitado;
 //O número elevado a potência 10;
 
+//feito por: Arthur Girardi Noronha Tomei
 package aula3;
 import java.util.Scanner;
 public class ex12aula3 {

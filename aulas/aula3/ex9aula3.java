@@ -1,6 +1,7 @@
 //Faça um algoritmo para apresentar:
 //– o cálculo da área de um quadrado de 350 metros de lado.
 
+//feito por: Arthur Girardi Noronha Tomei
 package aula3;
 public class ex9aula3 {
     public static void main (String[] args){

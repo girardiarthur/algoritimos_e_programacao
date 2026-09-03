@@ -3,6 +3,7 @@
 //o seu Registro Acadêmico RA
 //o seu curso
 
+//feito por: Arthur Girardi Noronha Tomei
 package aula3;
 public class ex1aula3 {
     public static void main(String [] args){

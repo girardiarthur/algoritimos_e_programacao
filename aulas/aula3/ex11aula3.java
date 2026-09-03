@@ -4,6 +4,7 @@
 //a idade dessa pessoa;
 //quantos anos essa pessoa terá em 2030.
 
+//feito por: Arthur Girardi Noronha Tomei
 package aula3;
 import java.util.Scanner;
 public class ex11aula3 {

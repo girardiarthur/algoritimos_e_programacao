@@ -2,6 +2,7 @@
 //o cálculo da área de um círculo com raio de 5 cm. (π = 3.14159)
 //área do círculo = π ˆ r2
 
+//feito por: Arthur Girardi Noronha Tomei
 package aula3;
 public class ex10aula3 {
     public static void main (String []args){
