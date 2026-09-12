@@ -26,3 +26,4 @@ public class ex6 {
         entrada.close();
     }
 }
+//teste
