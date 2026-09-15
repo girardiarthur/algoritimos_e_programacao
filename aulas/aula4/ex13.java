@@ -22,8 +22,13 @@ public class ex13 {
             System.out.println("A MULTIPLICAÇÃO É IGUAL A: " + resultado);
             }
         else if (operacao == '/'){
-            double resultado = num1 / num2;
-            System.out.println("A DIVISÃO É IGUAL A: " + resultado);
+                if(num2 <= 0){
+                    System.out.println("IMPOSSIVEL DIVIDIR!!");
+                }
+                else {
+                    double resultado = num1 / num2;
+                    System.out.println("A DIVISÃO É IGUAL A: " + resultado);
+                }
         }
         else{
             System.out.println("OPERAÇÃO INVÁLIDA! TENTE NOVAMENTE.");
