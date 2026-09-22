@@ -39,6 +39,6 @@ public class ex1 {
             default:
                 System.out.println("OPÇÃO INVÁLIDA!");
         }
-
+            entrada.close();
     }
 }
