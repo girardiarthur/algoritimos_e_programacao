@@ -1,4 +1,3 @@
-//..
 package aula5.exercicios;
 import java.util.Scanner;
 public class ex3 {
