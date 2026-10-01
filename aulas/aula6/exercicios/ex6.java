@@ -1,4 +1,4 @@
-package aula6;
+package aula6.exercicios;
 import java.util.Scanner;
 public class ex6 {
     public static void main (String [] args){
