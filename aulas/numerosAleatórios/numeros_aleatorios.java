@@ -6,9 +6,8 @@ public class numeros_aleatorios {
         int sorteado = 0 + gerador.nextInt(90 + 1);
                 System.out.println(sorteado);
                 System.out.println("Numero sorteado é: " + sorteado);
-
+//teste
             }
 }
-
 
 
